@@ -31,29 +31,3 @@ node.left.left.setLeft(6)
 
 morrisPre(node)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# node = Node(10)
-# node.setLeft(5)
-# node.setRight(2)
-# node.right.setLeft(4)
-# node.right.setRight(8)
-# node.left.setLeft(1)
-# node.left.setRight(3)
